@@ -1,0 +1,11 @@
+Version 1.0
+May 2026
+
+Initial Release
+
+Features:
+- Responsive Layout
+- Dark/Light Mode
+- Contact Form Integration
+- Mobile Navigation
+- Scroll Reveal Animations
